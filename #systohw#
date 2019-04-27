@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Pseudocode:
+
+----------------------------------------  THE SCRIPT  -------------------------------------
+
+# get the system clock
+
+
+#get the hardware
+
+
+# make the system clock === hardware clock 
+
+
+------------------------------------	  THE CRON TASK  -------------------------------
+
+#Every Monday of every week  at midnight - set system clock to align with the  hardware clock(schedule the crontab to run the script explained above)
+
+#0 0 */7 * 1   /bin/sh /that bashscript/
+
+
+
+# Thing to add:
+# 1. the log file proving that the cron task executed
+
+
+
+

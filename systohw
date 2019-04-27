@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Pseudocode:
+
+----------------------------------------  THE SCRIPT  -------------------------------------
+
+# get the system clock
+
+
+#get the hardware
+
+
+# let system clock == hardware clock 
+
+
+------------------------------------	  THE CRON TASK  -------------------------------
+
+#Every month at midnight on Monday every week - set system clock to hardware clock
+
+#0 0 */7 * 1   /bin/sh /that bashscript/
+
+
+
+#What Cuan said:
+#and at times you can monitor. and have the bash script log that it did something
+
+
+
